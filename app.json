@@ -1,18 +1,18 @@
 {
-  "name": "Asena UserBot",
-  "description": "Asena UserBot",
-  "logo": "https://i.hizliresim.com/1UoYoT.jpg",
+  "name": "XTKJ 2 BOT",
+  "description": "just bot",
+  "logo": "https://telegra.ph/file/2bce3eedf66066bbf1cdf.jpg",
   "keywords": [
     "telegram",
     "userbot",
-	"Asena",
+	"XTKJ 2",
     "plugin",
     "modular",
     "productivity"
   ],
   "repository": "https://github.com/quiec/AsenaUserbot",
   "website":   "https://quiec.tech",
-  "success_url": "https://t.me/AsenaSupport",
+  "success_url": "https://t.me/Ikyy_N9",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -58,8 +58,8 @@
       "required": true
     },
     "COUNTRY": {
-      "description": "Ülkenizi .time ve .date komutlarında kullanılacak şekilde ayarlayın. Varsayılan olarak Türkiye ayarlanmıştır.",
-      "value": "Turkey",
+      "description": "Test ..yess",
+      "value": "Indonesia",
       "required": false
     },
     "TZ_NUMBER": {
@@ -176,8 +176,8 @@
       "required": false
     },
     "DEFAULT_BIO": {
-      "description": "Varsayılan profil biyografisi.",
-      "value": "@AsenaUserBot",
+      "description": "cek.",
+      "value": "T.me/Ikyy_N9",
       "required": false
     },
     "G_DRIVE_CLIENT_SECRET": {
@@ -227,7 +227,7 @@
     },
     "LANGUAGE": {
       "description": "Botun dili. EN/TR/AZ yazabilirsiniz.",
-      "value": "TR",
+      "value": "ID",
       "required": true
     }
   },
